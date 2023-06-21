@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codersarraf
 - 👀 I’m interested in coding
-- 🌱 I’ve learnt ReactJs, Redux              Javascript, HTML, CSS, Bootstrap,      MaterialUI, TailwindCss, 
+- 🌱 I’ve learnt ReactJs, Redux, Javascript, HTML, CSS, Bootstrap, MaterialUI, TailwindCss, Git/Github
 - Currently i am learning NextJs.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... ☑️amitsarraf6@gmail.com
